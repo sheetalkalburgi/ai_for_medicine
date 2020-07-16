@@ -1,4 +1,4 @@
-# AI-for-Medicine
+# AI for Medicine Specialization
 This repository is a summary of  **"[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)"**  offered by deeplearning.ai
 
 There are 3 Courses for **"[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)"** which are:
